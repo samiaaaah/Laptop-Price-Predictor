@@ -1,4 +1,4 @@
-import query as query
+
 import streamlit as st
 import pickle
 import numpy as np
